@@ -1,2 +1,2 @@
-#!/bib/bash
-"rev"
+#!/bin/bash
+rev
